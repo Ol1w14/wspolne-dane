@@ -36,5 +36,3 @@ Program generuje raport zawierający trzy sekcje:
 - 🔹 **TYLKO W PLIKU 1** – imiona występujące tylko na pierwszej liście.
 - 🔹 **TYLKO W PLIKU 2** – imiona występujące tylko na drugiej liście.
 
-## 👩‍💻 Autorzy
-🎓 Projekt szkolny – wspólne dane.
